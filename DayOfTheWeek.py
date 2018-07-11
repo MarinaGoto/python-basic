@@ -1,3 +1,5 @@
+#This program allows the user to enter the year, month and day, and as the output, the program determines the day of the week
+
 
 year = int(input('Please write a year: '))
 month = int(input('Please write a month (1-12): '))
@@ -12,7 +14,7 @@ value = year_digits + (year_digits//4)
 
 if centry_digits == 18:
     value = value + 2
-else centry_digits == 20:
+if centry_digits == 20:
     value = value + 6
     
 if (month == 1) and  not ((year % 4 == 0) and not(year % 100 == 0)) or ((year % 4 == 0) and (year % 400 == 0)):
@@ -38,9 +40,7 @@ elif (month == 9) or (month == 12):
 else:
     print('Invalid input 1.')
     
-    
-value = (value + day) %  7
-
+value = (value + 1) %  7
 
 
 if value == 1:
