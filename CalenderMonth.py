@@ -22,9 +22,9 @@ else:
     
 #This program allows the user to enter the year, month and day, and as the output, the program determines the day of the week    
 centry_digits = int(str(year)[:2])
-
+print(int(str(year)[:2]))
 year_digits = int(str(year)[-2:])
-
+print(int(str(year)[-2:]))
 value = year_digits + (year_digits//4)
 
 if centry_digits == 18:
