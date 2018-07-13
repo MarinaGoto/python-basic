@@ -1,4 +1,4 @@
-# Program to display a calender month for any given month between January 1800 and December 2099.
+# Program to display a calendar month for any given month between January 1800 and December 2099.
 
 
 # We develop and test the program in three stages.
