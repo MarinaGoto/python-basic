@@ -29,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CM.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CM.py">
+      <file leaf-file-name="CalendarMonth.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CalendarMonth.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="14" />
+              <caret column="37" selection-start-column="23" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -165,10 +165,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CM.py">
+    <entry file="file://$PROJECT_DIR$/CalendarMonth.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="14" />
+          <caret column="37" selection-start-column="23" selection-end-column="37" />
         </state>
       </provider>
     </entry>
