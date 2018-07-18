@@ -5,7 +5,7 @@ turtle.setup(800, 600)
 
 # get reference to turtle window
 window = turtle.Screen()
-window.title('Absolute Positionong')
+window.title('Absolute Positioning')
 
 #get default turtle and hide
 the_turtle = turtle.getturtle()
